@@ -1,0 +1,4 @@
+/* Minimal overrides for the new Tailwind-based UI */
+button {
+  font-family: inherit;
+}
